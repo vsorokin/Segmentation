@@ -22,3 +22,7 @@
       python3 main_valuation.py
       ```
 1. Additionally, [ElasticTransform.ipynb](ElasticTransform.ipynb) and [TransformVisualization.ipynb](TransformVisualization.ipynb) generate useful visualizations for the elastic tranformation, reverse transformation, predicted segmentations, etc.
+
+## Files of interest
+
+* [model.py](model.py) implements the baseline model (UNet).
